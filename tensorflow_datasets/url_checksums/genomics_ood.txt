@@ -1,0 +1,2 @@
+gs://tfds-data/downloads/genomics_ood/genomics_ood.zip 253223783 4260cfaf5c919b55bb6d0e78d1a498990b7b7331f7daa6ac7e0af9dfb415e004
+https://storage.cloud.google.com/tfds-data/downloads/genomics_ood/genomics_ood.zip 59156 bda4383fbc3cac53ae348fdb8930d5a05d869a7017507f470c3716440d7f6fc8
